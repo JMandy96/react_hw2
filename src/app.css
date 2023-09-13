@@ -1,0 +1,11 @@
+.like{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.state{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
